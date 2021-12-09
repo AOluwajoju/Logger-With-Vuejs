@@ -1,0 +1,180 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "user_id": 1,
+      "body": "I kniw",
+      "created_at": "2021-09-13 19:18:42",
+      "updated_at": "2021-09-13 19:18:42"
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "body": "gb",
+      "created_at": "2021-09-13 22:22:11",
+      "updated_at": "2021-09-13 22:22:11"
+    },
+    {
+      "id": 6,
+      "user_id": 3,
+      "body": "jjj",
+      "created_at": "2021-09-14 08:40:27",
+      "updated_at": "2021-09-14 08:40:27"
+    },
+    {
+      "id": 9,
+      "user_id": 4,
+      "body": "Yeah\r\nYes",
+      "created_at": "2021-09-14 09:38:00",
+      "updated_at": "2021-09-14 09:38:00"
+    },
+    {
+      "id": 10,
+      "user_id": 4,
+      "body": "Wear",
+      "created_at": "2021-09-14 09:44:38",
+      "updated_at": "2021-09-14 09:44:38"
+    },
+    {
+      "id": 12,
+      "user_id": 1,
+      "body": "Get to work!",
+      "created_at": "2021-09-14 19:19:13",
+      "updated_at": "2021-09-14 19:19:13"
+    },
+    {
+      "id": 13,
+      "user_id": 1,
+      "body": "something",
+      "created_at": "2021-09-14 19:21:10",
+      "updated_at": "2021-09-14 19:21:10"
+    },
+    {
+      "id": 14,
+      "user_id": 1,
+      "body": "gdhdg",
+      "created_at": "2021-09-14 19:29:51",
+      "updated_at": "2021-09-14 19:29:51"
+    },
+    {
+      "id": 15,
+      "user_id": 1,
+      "body": "yes",
+      "created_at": "2021-09-14 19:29:56",
+      "updated_at": "2021-09-14 19:29:56"
+    },
+    {
+      "id": 16,
+      "user_id": 1,
+      "body": "no",
+      "created_at": "2021-09-14 19:30:00",
+      "updated_at": "2021-09-14 19:30:00"
+    },
+    {
+      "id": 17,
+      "user_id": 1,
+      "body": "bdg",
+      "created_at": "2021-09-14 19:30:03",
+      "updated_at": "2021-09-14 19:30:03"
+    },
+    {
+      "id": 18,
+      "user_id": 3,
+      "body": "yes",
+      "created_at": "2021-10-25 23:12:02",
+      "updated_at": "2021-10-25 23:12:02"
+    },
+    {
+      "body": "HI",
+      "created_at": "11/5/2021, 3:20:45 PM",
+      "user_id": "",
+      "id": 19
+    },
+    {
+      "body": "Yes!",
+      "created_at": "11/5/2021, 3:26:25 PM",
+      "user_id": "",
+      "id": 20
+    },
+    {
+      "body": "yes",
+      "created_at": "11/5/2021, 3:32:41 PM",
+      "user_id": "",
+      "id": 21
+    },
+    {
+      "body": "Yay!",
+      "created_at": "11/5/2021, 3:33:12 PM",
+      "user_id": "",
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Jay",
+      "email": "ademuyiwa.d@yahoo.com",
+      "email_verified_at": null,
+      "password": "$2y$10$g58c4Jp6d1GRndRRxE2zPu5iPfyqurbeDGnqgwxsrYxDrqi5HAs2.",
+      "remember_token": "kMBiqVgYuuHJfgumYBDXDZjP7orpOOTJYdccmnNRaG6iJ8lVZ2GAVWWJv39Z",
+      "created_at": "2021-09-13 19:15:37",
+      "updated_at": "2021-09-13 19:15:37",
+      "username": "Jay"
+    },
+    {
+      "id": 3,
+      "name": "Joju",
+      "email": "adedipupodavid@gmail.com",
+      "email_verified_at": null,
+      "password": "$2y$10$ZaKbOOb.IoBK1k4KqjjtKedYaFSnqeOJClHPoarw5kt2edNwaPcZG",
+      "remember_token": null,
+      "created_at": "2021-09-14 08:39:00",
+      "updated_at": "2021-09-14 08:39:00",
+      "username": "Joju"
+    },
+    {
+      "id": 4,
+      "name": "D.Oluwajoju",
+      "email": "david.ademuyiwa@bowen.edu.ng",
+      "email_verified_at": null,
+      "password": "$2y$10$f9n/G5ZctJGmNy.8q3bY2uV4Q3pBBnjZigUrEFOFSCglxqOxb21KW",
+      "remember_token": null,
+      "created_at": "2021-09-14 09:13:13",
+      "updated_at": "2021-09-14 09:13:13",
+      "username": "D.Oluwajoju"
+    },
+    {
+      "email": "david@gmail.com",
+      "name": "Dave",
+      "password": "dave123",
+      "confirm": "dave123",
+      "id": 5
+    },
+    {
+      "email": "ade@gmail.com",
+      "name": "ade",
+      "password": "adejay",
+      "confirm": "adejay",
+      "id": 6
+    },
+    {
+      "email": "adedipupodavid@gmail.com",
+      "name": "David Ademuyiwa",
+      "password": "ade",
+      "confirm": "ade",
+      "id": 7
+    },
+    {
+      "email": "adedipupodavid@gmail.com",
+      "name": "David Ademuyiwa",
+      "password": "create",
+      "confirm": "ceratd",
+      "id": 8
+    },
+    {
+      "email": "gg",
+      "password": "gg",
+      "id": 9
+    }
+  ]
+}
